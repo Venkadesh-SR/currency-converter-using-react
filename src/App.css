@@ -1,0 +1,93 @@
+body{
+  background-color: #675AFE;
+}
+.container{
+  margin-left: 20mm;
+  margin-top: 20mm;
+  width: 370px;
+  padding: 30px;
+  border-radius: 7px;
+  background: #fff;
+  box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.05);
+}
+form{
+margin: 40px 0 20px 0;
+}
+form input{
+  box-sizing: border-box;
+  width: 90%;
+  padding-top: 8mm;
+}
+.box{
+  display: flex;
+}
+.from{
+  padding: 0%;
+  width: 30%;
+  height: 10mm;
+  margin-right: 15mm;
+}
+.to{
+  padding: 0%;
+  width: 30%;
+  height: 10mm;
+  margin-left: 15mm;
+}
+.arrow{
+  font-weight: bold;
+}
+.labelfrom{
+  margin-bottom: 1mm;
+  margin-top: 4mm;
+  font-weight: bold;
+  font-size: large;
+}
+.labelto{
+  margin-left: 57.5mm;
+}
+.amountlabel{
+  font-weight: bold;
+  font-size: large;
+  }
+  .header{
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+  }
+  .finalvalidate{
+    height: 52px;
+  color: #fff;
+  font-size: 17px;
+  cursor: pointer;
+  background: #675AFE;
+  transition: 0.3s ease;
+  width: 90%;
+  margin-left: 4mm;
+  }
+  button:hover{
+      background: #4534fe;
+  }
+  .result{
+    text-align: center;
+  }
+.sub{
+  color: #fff;
+  margin-left: 20cm;
+}
+.sub h1{
+  font-size: 1.6cm;
+  font-weight: bolder;
+  margin-top: 0%;
+}
+.sub button{
+ width: 90%;
+ font-size: 1.4cm;
+ margin-left: 5mm;
+ margin-bottom: 5mm;
+ margin-top: 0mm;
+ color:#4534fe;
+ font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.sub button:hover{
+  background-color: #fff;
+}
